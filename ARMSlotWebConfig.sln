@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ARMSlotWebConfig", "ARMSlotWebConfig\ARMSlotWebConfig.deployproj", "{83C6AED4-29FA-405D-94EB-B4731228D87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C6AED4-29FA-405D-94EB-B4731228D87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C6AED4-29FA-405D-94EB-B4731228D87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C6AED4-29FA-405D-94EB-B4731228D87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C6AED4-29FA-405D-94EB-B4731228D87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EEA79D8-D0C3-4DD0-BFD0-CEF6F9D7DEDD}
+	EndGlobalSection
+EndGlobal
