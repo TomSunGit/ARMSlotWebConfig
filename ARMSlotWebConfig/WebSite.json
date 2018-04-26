@@ -126,7 +126,9 @@
           "dependsOn": [
             "[resourceId('Microsoft.Web/Sites/', variables('webSiteName'))]"
           ],
-          "properties": {}
+          "properties": {
+            "siteConfig": { }
+          }
         }
       ]
     }
