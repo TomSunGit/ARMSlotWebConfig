@@ -1,5 +1,5 @@
 # ARMSlotWebConfig
-To prevent the copying of settings from the production app, just add an empty siteConfig object in the slot properties. e.g.
+To prevent the copying of settings from the production app, just add an empty **siteConfig** object in the slot properties. e.g.
  
         {
           "apiVersion": "2015-08-01",
