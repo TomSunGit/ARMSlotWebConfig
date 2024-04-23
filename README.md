@@ -16,3 +16,4 @@ To prevent the copying of settings from the production app, just add an empty **
 
 
 **SO link: https://stackoverflow.com/questions/50024342/create-azure-web-app-slot-from-arm-template-without-copying-original-web-app-con**
+# update
