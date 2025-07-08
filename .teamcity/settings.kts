@@ -262,6 +262,9 @@ object Deploy : BuildType({
             buildType = "${Build.id}"
             successfulOnly = true
         }
+        vcs {
+            branchFilter = ""
+        }
     }
 
     dependencies {
