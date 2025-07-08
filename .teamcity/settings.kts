@@ -157,6 +157,7 @@ object Build : BuildType({
         }
         python {
             id = "python_runner"
+            enabled = false
             command = script {
                 content = "--version"
             }
