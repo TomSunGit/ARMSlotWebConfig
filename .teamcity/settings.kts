@@ -166,6 +166,7 @@ object Build : BuildType({
 
     triggers {
         schedule {
+            enabled = false
             schedulingPolicy = cron {
                 minutes = "28"
             }
