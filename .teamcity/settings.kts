@@ -251,6 +251,7 @@ object Deploy : BuildType({
         }
         script {
             id = "simpleRunner_2"
+            enabled = false
             scriptContent = "sleep 15"
         }
     }
